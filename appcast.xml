@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.2</title>
+      <pubDate>Sun, 15 Nov 2026 08:36:28 -0500</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Safe training for Claude agents</b>: the app now carries the car-projects MCP server and <code>training.sh</code> (inside the app, Contents/Resources/mcp-server), so every Mac with the app has them and updates keep them current. <code>training.sh refresh</code> copies your real data to a training copy, <code>open</code> opens the app on it (TEST DATABASE in every title), <code>real</code> goes back.</li><li>The MCP server can use the training copy (<code>CAR_PROJECTS_DATABASE=training</code>) and can be made read-only (<code>CAR_PROJECTS_WRITE=off</code>). Every preview and save says which database it is using.</li><li>A test or training copy can never sync to iCloud in installed builds, so nothing done in one can reach your real data.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.7.2/CarProjectsManager-1.7.2.zip" sparkle:edSignature="1lVqQqkUz1LrrSqxkYW3Uh15MESr+OzTMg+nt5TCQjGIvwhTDTRKVwpIsp+KI2FxGRvHyO+RDv6kNN7gvZduDw==" length="11212073" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.7.1</title>
       <pubDate>Sat, 14 Nov 2026 21:16:34 -0500</pubDate>
       <sparkle:version>18</sparkle:version>
