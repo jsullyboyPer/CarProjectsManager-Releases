@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.3</title>
+      <pubDate>Sun, 15 Nov 2026 15:04:00 -0500</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>1.10.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Project, Car and Supplier pages scroll when the window is too short, so the header (and its Promote to Real Data… button) is never cut off. With room to spare, the parts table / history still fills the window. (Part and Invoice pages already scrolled.)</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.10.3/CarProjectsManager-1.10.3.zip" sparkle:edSignature="WtzeUmmxk4q/qQAsFWsJ97T4DVy3v6168oRjOhqlQfWUVJ0kArBPkGqmx0+LBknuL5nGjPfGQJ15JwF3QQC9Aw==" length="11490772" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.10.2</title>
       <pubDate>Sun, 15 Nov 2026 14:47:06 -0500</pubDate>
       <sparkle:version>29</sparkle:version>
