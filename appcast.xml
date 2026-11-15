@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.0</title>
+      <pubDate>Sun, 15 Nov 2026 13:58:12 -0500</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A car&#x27;s mileage field is now <b>Mileage at purchase</b>, beside the purchase date. New <b>Current mileage</b> on the car shows the latest odometer reading from its projects and documents (with where it came from); the car&#x27;s banner and report use it.</li><li>Claude chats can correct a car&#x27;s purchase date, mileage at purchase, trim or VIN (MCP server 1.6.0: <code>preview_car_update</code>, old → new, saved after your yes). <code>preview_promote_car</code> copies those details from the training copy to the real data. The app refuses a car change if the car was edited after the preview.</li><li>The MCP server&#x27;s <code>list_cars</code> reports mileage at purchase and current mileage.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.8.0/CarProjectsManager-1.8.0.zip" sparkle:edSignature="lLa3wJZ5PJ1x0eo4Q6BxOs7rny6MvI26CQDawdY1bB1E6PhtyKUwBgO3oiI4G4fq3OvTz1EmwWFAPwpnqZelBw==" length="11270548" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.7.7</title>
       <pubDate>Sun, 15 Nov 2026 13:20:50 -0500</pubDate>
       <sparkle:version>24</sparkle:version>
