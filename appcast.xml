@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.4</title>
+      <pubDate>Sun, 15 Nov 2026 15:08:10 -0500</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.10.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Promote</b> no longer switches to your real data. You stay on the training copy; the promoted project or car details wait and are saved into your real data the next time you open it (backup first, then the result is shown). Promoting the same record again before then replaces the waiting copy.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.10.4/CarProjectsManager-1.10.4.zip" sparkle:edSignature="f14IFFQr9h7Ec2bHz3UIvOqmazr3pGKedksJJL/iyPhredBzE0Ls5f9HQM41SXxOAbY1eUGnOcch5bkKFzSLDg==" length="11497075" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.10.3</title>
       <pubDate>Sun, 15 Nov 2026 15:04:00 -0500</pubDate>
       <sparkle:version>30</sparkle:version>
