@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.6</title>
+      <pubDate>Sun, 15 Nov 2026 11:11:46 -0500</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The main window shows TRAINING COPY as an orange badge in the toolbar (click it for Return to Real Data) instead of a bar across the top, which covered the start of the sidebar. Other windows keep the orange bar.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.7.6/CarProjectsManager-1.7.6.zip" sparkle:edSignature="Pw8BJaR/Cai2xABID16nqAO7ZmjXAN6Cbr7M0yDKoqNQAy+EVAmmaBSeRTScDOIwQ8WXUDLXCN+00McOmBfgAA==" length="11235597" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.7.5</title>
       <pubDate>Sun, 15 Nov 2026 11:07:25 -0500</pubDate>
       <sparkle:version>22</sparkle:version>
