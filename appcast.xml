@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.0</title>
+      <pubDate>Sun, 15 Nov 2026 14:32:08 -0500</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Projects: <b>Description</b> is now <b>Purpose</b> (why the project: the problem or goal); existing text stays there. New <b>Outcome</b> (Met, Partly Met, Not Met, Too Early to Tell) with a <b>Why</b> explanation, shown once a project has started, and a <b>Notes</b> field for everything else (work log, observations, specs).</li><li>Projects list: new Outcome column (hover for purpose and outcome). Car history and the car report show them too.</li><li>Claude chats (MCP server 1.7.0) read and write purpose, outcome and notes; previews warn when a change would replace existing text. Promote to Real Data carries them.</li><li>iCloud: the new fields were added to the iCloud schema before this release.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.10.0/CarProjectsManager-1.10.0.zip" sparkle:edSignature="JhFiFTd6NtyfswQXu6y0uNMNWEl7leFL396CI648hvETU2nN/3SHmouFR3AbeXZ99Y5ZiipRChcIfd3GTIKEDA==" length="11484761" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.9.0</title>
       <pubDate>Sun, 15 Nov 2026 14:16:47 -0500</pubDate>
       <sparkle:version>26</sparkle:version>
