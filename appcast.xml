@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.9.0</title>
+      <pubDate>Sun, 15 Nov 2026 14:16:47 -0500</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Promote to Real Data…</b> button on a project and on a car while the training copy is open. After you confirm, the app switches to your real data, backs it up and saves the project (its parts and documents) or the car&#x27;s details there, then shows the result with a button back to the training copy. Parts are matched to your real parts by part number; a project already in your real data is never added twice; a part installed from stock that your real data doesn&#x27;t have stops the promotion (enter its invoice first). A promotion not picked up within an hour is discarded.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.9.0/CarProjectsManager-1.9.0.zip" sparkle:edSignature="z/FhOTNqOCPCfblQsB8Z2E0ckKNZ1pJtQwgecW+gmLrDigWTpJcswoC1bS4P4VUDPCA94BWBfA2siLXqc09PAQ==" length="11374731" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.8.0</title>
       <pubDate>Sun, 15 Nov 2026 13:58:12 -0500</pubDate>
       <sparkle:version>25</sparkle:version>
