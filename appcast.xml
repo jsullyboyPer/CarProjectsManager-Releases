@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.5</title>
+      <pubDate>Sun, 15 Nov 2026 11:07:25 -0500</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>TRAINING COPY</b> bar in orange across the top of every window while the training copy is open, with a Return to Real Data button; window titles say &quot;TRAINING COPY&quot; instead of &quot;TEST DATABASE&quot;.</li><li>Fixed: Open Training Copy reopened the app on the real data. The choice of database is now remembered in the app&#x27;s settings, so it holds however the app is opened (including after an update), until you return to real data.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.7.5/CarProjectsManager-1.7.5.zip" sparkle:edSignature="qA8AYudGCYHaAawnTI2eLLRyKJ8cKI0gVChVPpCLz31OPPnb5MbyAA9n0khqd7d90LEBmmB0PxxtqzWK6Dz2Aw==" length="11228123" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.7.4</title>
       <pubDate>Sun, 15 Nov 2026 10:52:59 -0500</pubDate>
       <sparkle:version>21</sparkle:version>
