@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.3</title>
+      <pubDate>Sun, 15 Nov 2026 08:51:56 -0500</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Promote a project from training to your real data</b>: once a project (details, parts and documents) is right in the training copy, ask the agent to promote it. It previews exactly what your real data would get, parts matched by part number; after your yes, and with the app open on your real data, it is saved there. A project with the same name already in your real data is refused, so nothing is entered twice.</li><li>A planned project (Not Started) no longer needs a date; planned parts are shown as &quot;needed, not installed yet&quot;.</li><li>A save only goes ahead while the app is open on that same database; nothing waits in a queue to land later.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.7.3/CarProjectsManager-1.7.3.zip" sparkle:edSignature="RwrgyAKOLRDqTV0GHbJz5O+2devDqiHdjRYP0SpICrt0qh/PJXm8IR2EFizUDNOfAYRTxxZ4fNCMd9ZuN3O/Cw==" length="11214132" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.7.2</title>
       <pubDate>Sun, 15 Nov 2026 08:36:28 -0500</pubDate>
       <sparkle:version>19</sparkle:version>
