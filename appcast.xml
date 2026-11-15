@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.7</title>
+      <pubDate>Sun, 15 Nov 2026 15:26:34 -0500</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.10.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>On the training copy, <b>Promote to Real Data…</b> shows only when there&#x27;s something to promote. A project already in your real data shows a green <b>In Real Data</b> mark instead; a car whose details already match shows <b>Matches Real Data</b>. (Read from your real data, read-only.)</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.10.7/CarProjectsManager-1.10.7.zip" sparkle:edSignature="alijfEqu+4kJak3+4MO11jdc2PXo7hdE2auhIwtoC2+u0Z1KUIKvR/0c0D3uC23rh8RpBtjbMF29HMrCtCPvAQ==" length="11543545" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.10.6</title>
       <pubDate>Sun, 15 Nov 2026 15:16:35 -0500</pubDate>
       <sparkle:version>33</sparkle:version>
