@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.8</title>
+      <pubDate>Sun, 15 Nov 2026 15:40:10 -0500</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>1.10.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Promote to Real Data…</b> on a car now takes everything about it the real data doesn&#x27;t have yet, in one go: changed details, its new projects (e.g. &quot;before you owned it&quot; history, with their parts and documents) and its documents that aren&#x27;t on a project (Carfax, ownership papers…). One backup first; the result lists what came across and anything that couldn&#x27;t.</li><li>The car shows <b>Matches Real Data</b> only when its details and its whole history are in your real data.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.10.8/CarProjectsManager-1.10.8.zip" sparkle:edSignature="IW/URqnQ80vaAUhWnipjuZIB0dK66+GHH8nwuSZbtD7NuX4lyr7g+m+quh2EzvgjeCIPDkmjgO0iScxW6rUTBg==" length="11575540" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.10.7</title>
       <pubDate>Sun, 15 Nov 2026 15:26:34 -0500</pubDate>
       <sparkle:version>34</sparkle:version>
