@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/jsullyboyPer/CarProjectsManager-Releases/main/appcast.xml</link>
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
+    <item>
+      <title>Version 1.7</title>
+      <pubDate>Sat, 14 Nov 2026 20:38:58 -0500</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Check for Updates…</b> in the Car Projects Manager menu, and an automatic check once a day. Updates download and install from inside the app (no more &quot;downloaded from the Internet&quot; question), and are only accepted when signed with the app&#x27;s update key, Developer ID signed and notarized.</li><li>Includes 1.6.2: iCloud changes from your other Mac arrive in the background.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.7/CarProjectsManager-1.7.zip" sparkle:edSignature="He4y3zWcghgg+mQ/PkOGZYW+dg86nt/GX1SRqFEgiwzJ2GaqVOB/PrGSy+OxsbEvJEzJKITO4Cg04IBTMMvLDg==" length="11173913" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
