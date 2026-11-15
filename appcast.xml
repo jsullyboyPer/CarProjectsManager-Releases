@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.5</title>
+      <pubDate>Sun, 15 Nov 2026 15:13:23 -0500</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.10.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Promote to Real Data…</b> now promotes straight away and you stay on the training copy: the app opens your real data beside it (with iCloud sync as usual, so the change uploads right away), backs it up, saves the project or car details and shows the result. No switching and nothing to remember.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.10.5/CarProjectsManager-1.10.5.zip" sparkle:edSignature="I2h7bARrLsV9MZGN+wTueoBJOwVuD0/ZXckxQRjy6KGdg3Rz5mDByXdG2aDKVdNeOUxxwDlpk6XJmDEq8tiDBQ==" length="11496524" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.10.4</title>
       <pubDate>Sun, 15 Nov 2026 15:08:10 -0500</pubDate>
       <sparkle:version>31</sparkle:version>
