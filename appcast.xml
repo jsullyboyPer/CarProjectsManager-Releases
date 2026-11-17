@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.13.0</title>
+      <pubDate>Mon, 16 Nov 2026 20:04:58 -0500</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Invoices can be promoted on their own</b> (e.g. parts bought for stock, not on any project): the invoice page in the training copy shows <b>Promote to Real Data…</b>, or <b>Promote Changes…</b> when it was changed since. It brings the invoice, its supplier, lines and scanned file, and any new part records; an invoice number already used by a different record in your real data stops it.</li><li>Promoting a car also takes its new or changed invoices; the car shows <b>Matches Real Data</b> only when those are in your real data too.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.13.0/CarProjectsManager-1.13.0.zip" sparkle:edSignature="GamLgr5Y0VoeY8wjLRsAmBcQJIWqN5pFdKUISRv/1u70JaGsJ/vTIGyd9kDGA5pQws8dqJiz3K/IzA67V5k/Ag==" length="11792610" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.12.0</title>
       <pubDate>Mon, 16 Nov 2026 19:55:03 -0500</pubDate>
       <sparkle:version>37</sparkle:version>
