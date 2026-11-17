@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.12.0</title>
+      <pubDate>Mon, 16 Nov 2026 19:55:03 -0500</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Promote Changes…</b>: a project that&#x27;s already in your real data but was changed in the training copy (its details, its parts&#x27; quantities, dates or costs, new purchases, documents) now shows <b>Promote Changes…</b> instead of &quot;In Real Data&quot;. Promoting updates the real project to match, and brings along the invoices its parts were bought on (supplier, lines and file) and any new part records — nothing is added twice. Promoting a car includes its changed projects too.</li><li>Project parts: the <b>Date Installed</b> column is shown and can be edited right in the row (also in &quot;Edit Quantities and Date…&quot;).</li><li>Claude chats (MCP server 1.10.0): new <code>preview_project_part_update</code> to change a part already on a project (install date, installed or needed quantity, from my stock, unit cost).</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.12.0/CarProjectsManager-1.12.0.zip" sparkle:edSignature="EJ0qZcA2SJJusmRrdB0zkv6O8vQ4c/oDnTB8r4PfiBvoFlX7V3vhDcQ3OXNygjif9l9i3xcAVL+OQHcFWheWCQ==" length="11758853" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.11.0</title>
       <pubDate>Sun, 15 Nov 2026 15:59:17 -0500</pubDate>
       <sparkle:version>36</sparkle:version>
