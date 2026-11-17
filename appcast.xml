@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.14.0</title>
+      <pubDate>Mon, 16 Nov 2026 20:32:41 -0500</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Ready to Promote</b> window (training copy): every record that&#x27;s new or changed compared with your real data — car details, projects, invoices, documents not on a project — marked New or Changed, with <b>Open</b> to check or fix it and <b>Promote</b> for each, or <b>Promote All…</b> (one backup first). Records that can&#x27;t be promoted as they are (a name or invoice number used by a different record) are listed under <b>Needs Fixing</b>. Open it from the orange badge, which now shows the count (&quot;TRAINING COPY · 3 TO PROMOTE&quot;), or File ▸ Training Copy ▸ Review and Promote… (⇧⌘P). Checked every 15 seconds and right after each change the agent makes.</li><li>Claude chats (MCP server 1.11.0): new <code>promotion_status</code> tool, so the agent can tell you what&#x27;s ready to promote and what needs fixing.</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.14.0/CarProjectsManager-1.14.0.zip" sparkle:edSignature="K0k8l57fuiDGkbk8vA0t+50ZYfHx1G2t5m1HfY6s4wnlgrsfzKqljqbc4hnyF8Iuf0tbk2JIQkXTQ54KQM7uCw==" length="11870264" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.13.0</title>
       <pubDate>Mon, 16 Nov 2026 20:04:58 -0500</pubDate>
       <sparkle:version>38</sparkle:version>
