@@ -6,6 +6,15 @@
     <description>Updates for Car Projects Manager</description>
     <language>en</language>
     <item>
+      <title>Version 1.15.1</title>
+      <pubDate>Tue, 17 Nov 2026 22:11:41 -0500</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>1.15.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixed: promoting a project from the training copy left the parts it added to your real data at <b>Required</b> with no stock or cost, although their purchases and installs came across. Their stock and status are now worked out again after promotion, and parts supplied with the work (no purchase) keep the training copy&#x27;s status.</li><li>One-time repair at launch puts right the parts promoted wrongly by 1.12.0–1.15.0 (a backup is made first; the list of what changed is in Diagnostics/part-status-repair.txt).</li></ul>]]></description>
+      <enclosure url="https://github.com/jsullyboyPer/CarProjectsManager-Releases/releases/download/v1.15.1/CarProjectsManager-1.15.1.zip" sparkle:edSignature="uj/waOKXECO0QXuFzLBedM51S0Ux3xHmgz1N3elQxirXMR6fkNhQnt+poqBoknxBc5d75j+pUgiwPjs7gfcIAg==" length="11956152" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.15.0</title>
       <pubDate>Mon, 16 Nov 2026 21:16:17 -0500</pubDate>
       <sparkle:version>40</sparkle:version>
